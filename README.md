@@ -72,7 +72,6 @@ Crafted with dedication by:
 Inayat Hussain (a.k.a. Inayat Raj Chohan)
 🌍 LinkedIn
 📘 Facebook: Inayat Raj Chohan
-🐙 GitHub: https://github.com/your-github-username
 ⚠️ Disclaimer
 
 This tool is intended only for educational and authorized testing purposes. You must have explicit permission to target and test any asset. The creator is not responsible for any misuse.
